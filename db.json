@@ -5,23 +5,15 @@
       "id": 1,
       "name": "John Doe",
       "email": "john@example.com",
-      "password": "password",
-      "profession": "Web Developer",
-      "skills": ["HTML", "CSS", "JavaScript"],
-      "hourly_rate": 25,
-      "profile_picture": "https://images.pexels.com/photos/35537/child-children-girl-happy.jpg?auto=compress&cs=tinysrgb&w=600",
-			"isBooked" : false
+      "password": "password"
     },
     {
       "id": 2,
       "name": "Jane Smith",
       "email": "jane@example.com",
-      "password": "password",
-      "profession": "Graphic Designer",
-      "skills": ["Photoshop", "Illustrator"],
-      "hourly_rate": 30,
-      "profile_picture": "https://media.istockphoto.com/id/1193994027/photo/cute-boy-outdoors.jpg?s=612x612&w=0&k=20&c=9t0VR6BCwSZk5ciPSuMzrN0gpfDG2lBoCtHsvoBN0vA=",
-			"isBooked" : true
+      "password": "password"
     }
-  ]
+  ],
+  "users":[],
+  "forum":[]
 }
